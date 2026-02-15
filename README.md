@@ -48,7 +48,7 @@ Exact age is displayed in years, months, and days
 
 Clone the repository
 
-git clone https://github.com/your-username/age-calculator.git
+git clone https://github.com/anahita31/age-calculator.git
 
 
 Open the project folder
